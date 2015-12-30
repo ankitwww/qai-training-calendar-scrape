@@ -1,0 +1,20 @@
+{
+  "name"         : "qai-training-calendar-scrape",
+  "version"      : "0.0.1",
+  "description"  : "QAI Training Calendar Scrape",
+  "main"         : "server.js",
+  "author"       : "tekpill@live.com",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tekpill/qai-training-calendar-scrape"
+  },
+  "license": "MIT",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
